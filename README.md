@@ -1,8 +1,4 @@
-Here’s a professional `README.md` file for your **To-Do List** project:
 
----
-
-```markdown
 # 📝 To-Do List Web App
 
 A clean and responsive To-Do List web application built using **HTML**, **Tailwind CSS**, and **JavaScript**. Users can add, check/uncheck, and remove tasks. The app persists tasks using **localStorage**, ensuring data is saved even after refreshing the page.
@@ -27,7 +23,6 @@ A clean and responsive To-Do List web application built using **HTML**, **Tailwi
 │       ├── unchecked.png
 │       └── checked.png
 ├── index.html
-├── style.css (optional, if using additional custom styles)
 └── script.js
 ```
 
@@ -80,8 +75,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙌 Acknowledgments
 
 - Built with ❤️ using [Tailwind CSS](https://tailwindcss.com/)
-```
-
----
-
-Let me know if you'd like a version with deployment instructions (e.g., for GitHub Pages), or a version in another style (minimalist, casual, etc.).
