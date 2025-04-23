@@ -60,9 +60,9 @@ A clean and responsive To-Do List web application built using **HTML**, **Tailwi
 ## 📋 To-Do
 
 - [ ] Add task editing functionality
-- [ ] Drag-and-drop task reordering
+- [ ] Remove the Unwanted task from the list
 - [ ] Mark all tasks complete
-- [ ] Dark mode support
+
 
 ---
 
